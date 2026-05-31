@@ -1,0 +1,146 @@
+/* h1{
+    background-color:blueviolet;
+    color:black;
+} */
+ /* .heading{ 
+    background-color:blueviolet;
+    color:black;
+
+ }
+ 
+body{
+    background-color: pink;
+
+}
+
+button{
+    color:black;
+    background-color: aquamarine;
+}
+
+p{
+    color:darkgreen;
+} */
+
+/* #box {
+    
+    height : 400px;
+    width: 500px;
+    background-color: rgba(86, 151, 20, 0.27);
+    color:black(23, 215, 215);
+    border: 10px solid black;
+    
+} */
+/* 
+#box{
+
+    height: 500px;
+    width: 1000px;
+    background-color: deeppink;
+    color:black(45, 24, 177);
+    border:10px solid purple;
+    text-size-adjust: inherit;
+    font-size: 30px;
+    font-style: italic;
+
+    
+}
+
+button{
+
+  
+    font-size: 20px;
+} */
+
+/* .content {
+      
+      color:white;
+
+}
+
+.newclass {
+
+    background-color: yellow;
+} */
+
+/* div { background-color: aqua;
+      color: black;
+      width: 200px;
+      height: 200px;
+      border: 2px solid black;
+      font-size: 20px;
+      font-style: italic;
+
+
+} */
+
+
+/* p {
+
+    background-color: red;
+    color: black;
+} */
+
+*{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+}
+
+h1 {
+    background-color: blue;
+    color: aliceblue;
+    height: 5rem;
+    line-height: 5rem;
+
+}
+
+.choice img {
+    height: 150px;
+    width: 150px;
+    object-fit: contain; 
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%; 
+} 
+  .choices {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 10%;
+  }
+ 
+  .score-board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    gap: 2rem;
+    margin-top: 3rem;
+    color: blueviolet;
+  }
+
+  #user-score, 
+  #computer-score {
+    font-size: 5rem;
+    color: blueviolet;
+
+  }
+ .msg-container {
+  margin-top: 1.50rem;  
+ }
+
+  #msg {
+    margin-top: 2rem;
+    display: inline;
+    font-size: 1.50rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: black;
+    color:rgb(162, 0, 232)
+    
+}
